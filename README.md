@@ -1,11 +1,7 @@
 ## Hi I'm Abinash  👋
 
-- 🎓 Master's student at the University of Sydney (Machine Learning)  
-- 💻 ML Engineer at FloMoney  
-- 🚀 I enjoy creating projects that push the boundaries of AI  
-
 # 💫 About Me:
-- 🎓 Master's student at the University of Sydney (Machine Learning)  <br>- 💻 ML Engineer at FloMoney  <br>- 🚀 I enjoy creating projects that push the boundaries of AI  <br>
+- 🎓 Master's student at the University of Sydney (Machine Learning)  <br>- 💻 ML Engineer at FloMoney  <br>- 🚀 I enjoy creating projects that push the boundaries of AI  <br>- - 🌍 Check out my personal website: [bashful-industry-713894.framer.app](https://bashful-industry-713894.framer.app/)  <br>
 
 
 ## 🌐 Socials:
